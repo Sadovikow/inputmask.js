@@ -1,3 +1,4 @@
+/*
  * Input Mask Core
  * http://github.com/RobinHerbots/jquery.inputmask
  * Copyright (c) 2010 -	Robin Herbots
